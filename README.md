@@ -1,8 +1,7 @@
-=============================================
 Getting and Cleaning Data course project
+=============================================
 coursera.org
 getdata-012
-=============================================
 
 This course project is based on the Human Activity Recognition Using Smartphones Dataset. More details can be found on their project page:
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
@@ -14,7 +13,6 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 The output result is to merge the training and testing dataset, and give summary metrics for each subject and activity.
 The GitHub folder contains the following files:
-=========================================
 
 - 'README.md'
 
